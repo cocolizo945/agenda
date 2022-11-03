@@ -1,0 +1,8 @@
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\bin\Debug\agenda_c#.exe.config
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\bin\Debug\agenda_c#.exe
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\bin\Debug\agenda_c#.pdb
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\obj\Debug\agenda_c#.csprojResolveAssemblyReference.cache
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\obj\Debug\agenda_c_.MainForm.resources
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\obj\Debug\agenda_c#.csproj.GenerateResource.Cache
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\obj\Debug\agenda_c#.exe
+C:\Users\coquito\Documents\SharpDevelop Projects\agenda\agenda_c#\obj\Debug\agenda_c#.pdb
